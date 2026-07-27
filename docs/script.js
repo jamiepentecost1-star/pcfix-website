@@ -1,0 +1,1 @@
+const c=document.getElementById('matrix'),x=c.getContext('2d');function r(){c.width=innerWidth;c.height=innerHeight}r();onresize=r;const s=18,l='01ABCDEFGHIJKLMNOPQRSTUVWXYZ';let cols=Math.floor(in[...]
